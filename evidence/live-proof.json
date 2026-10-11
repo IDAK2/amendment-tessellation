@@ -1,0 +1,55 @@
+{
+  "tessellationId": "TILE-1791756982",
+  "transactions": {
+    "open": "0x2c8e3aac602288f79c19f390225f261902284938162f9554791900bb0deb973d",
+    "amendment1": "0x15dc0b2c7adcee43352a4c973fe1d2ccef256e1aec69e6b6487cb1204bce262f",
+    "amendment3": "0x57d1dfeb02cd324234bed51cf01ffcf36f0b838101af6aa5a6aca4a333add079",
+    "amendment4": "0x0c2182b1f3aeb76147dd61497fe6c280916f4485d1f70750fc8016271fc833c1",
+    "compose": "0x3d409a1fbb0717038ccfd5e9c5c63956bfaa160e4204a5422278d10143e28c0e"
+  },
+  "state": {
+    "amendment_count": 3,
+    "base_motion": "Provide dependable access services for every monthly neighborhood assembly.",
+    "conflict_pairs": [
+      [
+        0,
+        1
+      ]
+    ],
+    "deadline": 1791760584,
+    "digests": [
+      "9044ba0296dce523cea164f4cbe32e604308c24b8e313be0cea6494f7893e7c7",
+      "8e881507ecc180b7228eebb4fd69aec01f9b630dc7bd6d00eecbcd580e1448e3",
+      "6d90e74b7fea35027140fa0c79a7804d00362a7797ca4ddac22686ae3fbc6a44"
+    ],
+    "id": "TILE-1791756982",
+    "owner": "0xc8e8f5B7d61Da6eD160f474592627D65728b516e",
+    "package_indexes": [
+      0,
+      2
+    ],
+    "proposers": [
+      "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+      "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+      "0x05C0cc3F433F6e296f18117f558FdB9043434793"
+    ],
+    "scope_rules": "Amendments must govern meeting access, rooms, notices, childcare, or remote participation.",
+    "state": "PACKAGE",
+    "statuses": [
+      {
+        "index": 0,
+        "status": "IN_SCOPE"
+      },
+      {
+        "index": 1,
+        "status": "IN_SCOPE"
+      },
+      {
+        "index": 2,
+        "status": "IN_SCOPE"
+      }
+    ],
+    "title": "Neighborhood assembly access motion"
+  },
+  "disclosure": "The proposer wallets are operator-controlled role fixtures, not independent legislators."
+}

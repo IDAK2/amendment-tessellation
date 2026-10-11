@@ -1,0 +1,12 @@
+{
+  "network": "StudioNet",
+  "account": "IDAK2",
+  "deployerAddress": "0xc8e8f5B7d61Da6eD160f474592627D65728b516e",
+  "contractAddress": "0x348579936Bce80a504800c0caf714f833De16E0A",
+  "deploymentTransaction": "0x4ee249790d0322c36fec14c1dd3c26da86e59f85d607fc2ed98ef30dd87b6d9f",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "b035407e5346568fa1e1894cb05ab7a3c47271dda1873d358d1ce35a2a0f4006",
+  "sourceCommit": "971c35d3bf8db5e3fafb7964a14337901e660458",
+  "repository": "https://github.com/IDAK2/amendment-tessellation"
+}
